@@ -1,7 +1,5 @@
 # 📊 E-Commerce Sales Dashboard
 
-![Dashboard Preview](images/dashboard-preview.png)
-
 > **An interactive Power BI dashboard analyzing E-commerce sales performance, profit, quantity sold, and category insights across segments and regions.**
 
 ---
@@ -35,7 +33,8 @@ This project demonstrates how to build a powerful and visually appealing E-Comme
 ---
 
 ## 📸 Screenshots
-![Screenshot (102)](https://github.com/user-attachments/assets/31fbafef-9a97-4498-b774-897782860817)
+![Screenshot (102)](https://github.com/user-attachments/assets/ba93ee6a-da29-4ea7-8dde-2de2f45e4bd5)
+
 ---
 
 
@@ -51,4 +50,4 @@ This project demonstrates how to build a powerful and visually appealing E-Comme
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ecommerce-sales-dashboard.git
+   git clone https://github.com/guptaditya123/ecommerce-sales-dashboard.git
